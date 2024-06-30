@@ -1,3 +1,4 @@
+<base target="_blank" />
 Hi 👋 My name is Sergey Gusev
 =============================
 
@@ -12,7 +13,7 @@ I worked in technical support, but now I'm learning Java and want to become a ba
 *   🚀  I'm currently working on [URL_Shortener](https://github.com/sergeloie/URL_Shortener)
 *   🧠  I'm learning Spring framework
 *   🤝  I'm open to collaborating on projects useful for developing skills
-*   ✉️  You can contact me at [serge.loie@yandex.ru](mailto:serge.loie@yandex.ru) or <a href="https://t.me/Anser_Anser" target="_blank">Telegram</a>
+*   ✉️  You can contact me at [serge.loie@yandex.ru](mailto:serge.loie@yandex.ru) or <a href="https://t.me/Anser_Anser">Telegram</a>
 
 ### Skills 
 <p align="center">
@@ -20,7 +21,7 @@ I worked in technical support, but now I'm learning Java and want to become a ba
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-<a href="https://amplicode.ru" targer="_blank" rel="norefferer"><img src="https://amplicode.ru/images/logo_white.svg" width="105" height="28" alt="Amplicode" /></a>
+<a href="https://amplicode.ru"><img src="https://amplicode.ru/images/logo_white.svg" width="105" height="28" alt="Amplicode" /></a>
 ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/redis-CC0000?&style=for-the-badge&logo=redis&logoColor=white)
