@@ -12,7 +12,7 @@ I worked in technical support, but now I'm learning Java and want to become a ba
 *   🚀  I'm currently working on [URL_Shortener](https://github.com/sergeloie/URL_Shortener)
 *   🧠  I'm learning Spring framework
 *   🤝  I'm open to collaborating on projects useful for developing skills
-*   ✉️  You can contact me at [serge.loie@yandex.ru](mailto:serge.loie@yandex.ru) or [Telegram](https://t.me/Anser_Anser)
+*   ✉️  You can contact me at [serge.loie@yandex.ru](mailto:serge.loie@yandex.ru) or <a href="https://t.me/Anser_Anser" target="_blank">Telegram</a>
 
 ### Skills 
 <p align="center">
