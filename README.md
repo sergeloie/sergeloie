@@ -21,6 +21,7 @@ I worked in technical support, but now I'm learning Java and want to become a ba
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 <a href="https://amplicode.ru"><img src="https://amplicode.ru/images/logo_white.svg" width="105" height="28" alt="Amplicode" /></a>
+<a href="https://amplicode.ru"><img src="https://amplicode.ru/images/logo_dark.svg" width="105" height="28" alt="Amplicode" /></a>
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC0000?&style=for-the-badge&logo=redis&logoColor=white)
