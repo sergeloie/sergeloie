@@ -4,14 +4,14 @@ Hi 👋 My name is Sergey Gusev
 Java Developer
 --------------
 
-I worked in technical support, but now I'm learning Java and want to become a backend developer
+I worked in technical support, but now I'm learning Java and ready to work as a backend developer
 
 *   🌍  I'm based in Chelyabinsk, Russia
-*   🎓  I studied at the Faculty of Mathematics at Chelyabinsk State University
+*   🎓  Studied at the Faculty of Mathematics at Chelyabinsk State University
 *   💻  Now I work in technical support at Voxys - No. 1 in the contact center outsourcing market in Russia.
-*   🚀  I'm currently working on [URL_Shortener](https://github.com/sergeloie/URL_Shortener)
-*   🧠  I'm learning Spring framework
-*   🤝  I'm open to collaborating on projects useful for developing skills
+*   🚀  Currently working on [URL_Shortener](https://github.com/sergeloie/URL_Shortener)
+*   🧠  Learning Spring framework and Amplicode
+*   🤝  Open to collaborating on projects useful for developing skills
 *   ✉️  You can contact me at [serge.loie@yandex.ru](mailto:serge.loie@yandex.ru) or [Telegram](https://t.me/Anser_Anser)
 
 ### Skills 
