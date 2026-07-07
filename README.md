@@ -9,7 +9,7 @@ I worked in technical support, but now I'm learning Java and ready to work as a 
 *   🌍  I'm based in Chelyabinsk, Russia
 *   🎓  Studied at the Faculty of Mathematics at Chelyabinsk State University
 *   💻  Now I work in technical support at Voxys - No. 1 in the contact center outsourcing market in Russia.
-*   🚀  Currently working on [URL_Shortener](https://github.com/sergeloie/URL_Shortener)
+*   🚀  Currently working on [Bank_Rest](https://github.com/sergeloie/bank_rest)
 *   🧠  Learning Spring framework and Amplicode
 *   🤝  Open to collaborating on projects useful for developing skills
 *   ✉️  You can contact me at [serge.loie@yandex.ru](mailto:serge.loie@yandex.ru) or [Telegram](https://t.me/Anser_Anser)
