@@ -60,3 +60,5 @@ I worked in technical support, but now I'm learning Java and ready to work as a 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeloie&show_icons=true)  
+
+![Enter some description](https://leetcode-badge-sage.vercel.app/badge/sergeloie?theme=dark)
